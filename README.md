@@ -18,7 +18,7 @@ high-value segments and optimizing ad placements.
 
 ## 🗂 Data Model
 5 relational tables — `users`, `ads`, `ad_impressions`, `ad_clicks`, `subscriptions` — 
-linked via `user_id` and `ad_id`. Full ER diagram in the presentation deck.
+linked via `user_id` and `ad_id`. Full ER diagram in the [presentation deck](./Social_Media_Revenue_Intelligence.pdf).
 
 ## 🔑 Key Findings
 - **Overall CTR:** 5.97%, stable across months with a Sep'25 peak of 6.17%
@@ -38,9 +38,11 @@ linked via `user_id` and `ad_id`. Full ER diagram in the presentation deck.
 SQL (MySQL) for querying and analysis · Canva for the presentation deck
 
 ## 📁 Files
-- `Queries.sql` — All analysis queries (CTR, revenue segmentation, ARPU, demographic breakdowns)
-- `data/` — Raw dataset (5 CSV tables)
-- `[Social_Media_Revenue_Intelligence.pdf](https://github.com/ArKar-Analyst/Social-Media-Revenue-Intelligence/blob/main/Social_Media_Revenue_Intelligence_slide_deck.pdf)` — Full presentation deck with visuals and insights
+- [`Queries.sql`](./Queries.sql) — All analysis queries (CTR, revenue segmentation, ARPU, demographic breakdowns)
+- [`data/`](./data) — Raw dataset (5 CSV tables)
+- [`Social_Media_Revenue_Intelligence.pdf`](./Social_Media_Revenue_Intelligence.pdf) — Full presentation deck with visuals and insights
 
 ## 👤 Author
-Arkadeep Kar
+**Arkadeep Kar**
+- GitHub: [@ArKar-Analyst](https://github.com/ArKar-Analyst)
+- LinkedIn: [your-linkedin-handle](https://www.linkedin.com/in/arkadeepkar/)
