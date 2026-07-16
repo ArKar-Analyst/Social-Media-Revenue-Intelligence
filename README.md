@@ -40,7 +40,7 @@ SQL (MySQL) for querying and analysis · Canva for the presentation deck
 ## 📁 Files
 - `Queries.sql` — All analysis queries (CTR, revenue segmentation, ARPU, demographic breakdowns)
 - `data/` — Raw dataset (5 CSV tables)
-- `Social_Media_Revenue_Intelligence.pdf` — Full presentation deck with visuals and insights
+- `[Social_Media_Revenue_Intelligence.pdf](https://github.com/ArKar-Analyst/Social-Media-Revenue-Intelligence/blob/main/Social_Media_Revenue_Intelligence_slide_deck.pdf)` — Full presentation deck with visuals and insights
 
 ## 👤 Author
 Arkadeep Kar
