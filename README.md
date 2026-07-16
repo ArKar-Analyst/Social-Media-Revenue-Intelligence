@@ -18,7 +18,7 @@ high-value segments and optimizing ad placements.
 
 ## 🗂 Data Model
 5 relational tables — `users`, `ads`, `ad_impressions`, `ad_clicks`, `subscriptions` — 
-linked via `user_id` and `ad_id`. Full ER diagram in the [presentation deck](./Social_Media_Revenue_Intelligence.pdf).
+linked via `user_id` and `ad_id`. Full ER diagram in the [presentation deck](./Social_Media_Revenue_Intelligence_slide_deck.pdf).
 
 ## 🔑 Key Findings
 - **Overall CTR:** 5.97%, stable across months with a Sep'25 peak of 6.17%
